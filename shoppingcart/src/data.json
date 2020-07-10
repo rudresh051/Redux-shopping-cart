@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name":"rollex",
+        "category":"watch",
+        "price":"1000",
+        "img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+        "desc":"The word patented gives the reader the impression that this is something special."
+    },
+    {
+        "id":"2",
+        "name":"sonata",
+        "category":"clock",
+        "price":"500",
+        "img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+        "desc":"The word patented gives the reader the impression that this is something special."
+    },
+    {
+        "id":"3",
+        "name":"fastrac",
+        "category":"wrist",
+        "price":"5600",
+        "img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+        "desc":"The word patented gives the reader the impression that this is something special."
+    },
+    {
+        "id":"4",
+        "name":"rollex",
+        "category":"watch",
+        "price":"1000",
+        "img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+        "desc":"The word patented gives the reader the impression that this is something special."
+    },
+    {
+        "id":"5",
+        "name":"samsung",
+        "category":"digital",
+        "price":"10000",
+        "img":"https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+        "desc":"The word patented gives the reader the impression that this is something special."
+    }
+]
